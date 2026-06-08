@@ -96,7 +96,7 @@ face_frontend/
 ### Docker 构建
 
 ```bash
-docker build -t face-frontend .
+docker build -t CCNN/CCNN-frontend:latest .
 ```
 
 ### Kubernetes 部署
